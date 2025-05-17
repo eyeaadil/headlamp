@@ -16,7 +16,7 @@ kubeconfig).
 
 Check out our: 
 - [Guidelines](https://headlamp.dev/docs/latest/contributing/)
-- [Code of Conduct](./CODE_OF_CONDUCT.md),
+- [Code of Conduct](../CODE_OF_CONDUCT.md),
 - [#headlamp](https://kubernetes.slack.com/messages/headlamp) slack channel in the Kubernetes Slack 
 - [Monthly Community Meeting](https://zoom-lfx.platform.linuxfoundation.org/meetings/headlamp)
 
